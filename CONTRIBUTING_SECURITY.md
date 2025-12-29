@@ -27,7 +27,7 @@ For any configuration that varies between environments or contains sensitive dat
 
 ```javascript
 // ❌ WRONG - Never hardcode credentials
-const apiKey = "sk_live_123456789abcdef";
+const apiKey = "your-actual-api-key-here";
 
 // ✅ CORRECT - Use environment variables
 const apiKey = process.env.API_KEY;

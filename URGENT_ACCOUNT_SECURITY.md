@@ -75,7 +75,7 @@ Subject: URGENT - Account Compromised - Fraudulent Charges
 
 Hello GitHub Support,
 
-My GitHub account (username: NDie1311) has been compromised, and my bank card 
+My GitHub account (username: <your-username>) has been compromised, and my bank card 
 used for GitHub AI subscription has been charged fraudulently.
 
 Issue Details:
@@ -201,19 +201,28 @@ Thank you for your urgent attention to this matter.
 
 ### Immediate Security Scan:
 
+Run a full antivirus/malware scan on your computer:
+- **Windows**: Use Windows Defender or your installed antivirus
+- **Mac**: Use Malwarebytes or CleanMyMac
+- **Linux**: Use ClamAV or rkhunter
+
+Look for:
+- Unknown processes consuming resources
+- Processes with suspicious names (random characters, misspelled system names)
+- Processes running from temporary directories or user folders
+- Network activity from unknown applications
+
+Check running processes:
 ```bash
-# Run these on your computer:
+# Windows - Open Task Manager (Ctrl+Shift+Esc)
+# Look at the Processes and Startup tabs for unfamiliar items
 
-# Check for suspicious processes (Windows)
-tasklist | findstr /i "suspicious"
+# Mac - Open Activity Monitor
+# Look at CPU, Memory, and Network tabs for unfamiliar processes
 
-# Check for suspicious processes (Mac/Linux)
-ps aux | grep -i suspicious
-
-# Clear browser cache and cookies
-# (Do this in your browser settings)
-
-# Update your antivirus and run full scan
+# Linux - View running processes
+ps aux | head -50
+# Look for processes you don't recognize or that use excessive resources
 ```
 
 ---

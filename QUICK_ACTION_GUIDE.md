@@ -71,7 +71,7 @@ The charges I'm disputing are: [list the dates and amounts]"
 
 My GitHub account has been compromised and unauthorized charges have been made to my bank card.
 
-Username: NDie1311
+Username: <your-username>
 
 Details:
 - My bank card for GitHub AI subscription was charged fraudulently
