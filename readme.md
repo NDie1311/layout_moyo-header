@@ -1,6 +1,6 @@
 # Moyo header
 
-⚠️ **SECURITY ALERT**: If you're experiencing fraudulent charges on your GitHub subscription, see [URGENT_ACCOUNT_SECURITY.md](URGENT_ACCOUNT_SECURITY.md) for immediate action steps.
+⚠️ **URGENT SECURITY ALERT**: If you're experiencing fraudulent charges on your GitHub subscription, **[START HERE](START_HERE.md)** for immediate help.
 
 Create an HTML page with the header using `flexbox` based on the [Figma Mockup](https://www.figma.com/file/1sog2rmfyCjnVxkeZ3ptnc/MOYO-%2F-Header?node-id=0%3A1&mode=dev).
 
