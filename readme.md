@@ -1,4 +1,7 @@
 # Moyo header
+
+⚠️ **URGENT SECURITY ALERT**: If you're experiencing fraudulent charges on your GitHub subscription, **[START HERE](START_HERE.md)** for immediate help.
+
 Create an HTML page with the header using `flexbox` based on the [Figma Mockup](https://www.figma.com/file/1sog2rmfyCjnVxkeZ3ptnc/MOYO-%2F-Header?node-id=0%3A1&mode=dev).
 
 The page should match the design Pixel Perfect: all the sizes, colors and distances MUST be the same as on the design.
@@ -24,6 +27,8 @@ The page should match the design Pixel Perfect: all the sizes, colors and distan
 - Nav Links should not have any padding but have the text centered
 
 ## Checklist
+
+⚠️ **SECURITY NOTICE**: If your GitHub subscription payment has been compromised, see [URGENT_ACCOUNT_SECURITY.md](URGENT_ACCOUNT_SECURITY.md) immediately.
 
 ❗️ Replace `<your_account>` with your GitHub username and copy the links to the `Pull Request` description:
 
